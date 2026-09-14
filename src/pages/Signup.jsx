@@ -43,7 +43,7 @@ export default function Signup() {
     <div className="auth-wrap">
       <div className="auth-card">
         <h2 className="auth-title">CREATE ACCOUNT</h2>
-        <p className="auth-sub">Join VELOCE and start booking in minutes.</p>
+        <p className="auth-sub">Join DriveEase and start booking in minutes.</p>
 
         {error && <div className="form-error">{error}</div>}
 

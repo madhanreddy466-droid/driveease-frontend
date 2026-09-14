@@ -6,7 +6,7 @@ const ADMINS = [
   { email: 'madhan466@gmail.com', pass: '90909090', name: 'Madhan', initials: 'M' },
 ];
 
-const STORAGE_KEY = 'veloce_admin';
+const STORAGE_KEY = 'driveease_admin';
 
 const AdminAuthContext = createContext(null);
 

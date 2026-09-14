@@ -49,7 +49,7 @@ export default function Signin() {
         </form>
 
         <div className="form-footer">
-          New to VELOCE? <Link to="/signup">Create an account</Link>
+          New to DriveEase? <Link to="/signup">Create an account</Link>
         </div>
       </div>
     </div>

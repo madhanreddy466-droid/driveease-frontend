@@ -9,7 +9,7 @@ export default function Home() {
             <div className="eyebrow">Premium Fleet · Hyderabad</div>
             <h1>DRIVE THE<br /><span>EXTRAORDINARY</span></h1>
             <p>
-              From daily commuters to Lamborghinis, VELOCE puts 48 hand-picked cars
+              From daily commuters to Lamborghinis, DriveEase puts 48 hand-picked cars
               at your fingertips — book in under two minutes, insurance included.
             </p>
             <div className="hero-actions">
@@ -22,7 +22,7 @@ export default function Home() {
 
       <section className="section">
         <div className="container">
-          <div className="eyebrow">Why VELOCE</div>
+          <div className="eyebrow">Why DriveEase</div>
           <h2 className="section-title">Built for effortless rentals</h2>
           <p className="section-sub">No paperwork queues, no hidden fees — just pick a car and go.</p>
 
