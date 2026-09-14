@@ -2,7 +2,8 @@
 
 The React front-end for Drive Ease, a full-stack vehicle rental platform. Users can browse the car fleet, book a vehicle, manage their bookings, and sign in as an admin to oversee all reservations.
 
-**Backend repo:** [drive-ease-backend](https://github.com/madhanreddy466-droid/driveease-backend)
+**Live app:** https://driveease-frontend-ten.vercel.app
+**Backend repo:** [driveease-backend](https://github.com/madhanreddy466-droid/driveease-backend) · **Live API:** https://driveease-backend-lwsc.onrender.com
 
 ## Features
 
@@ -54,4 +55,4 @@ src/
 
 ## Notes
 
-This frontend expects the [Drive Ease backend](#) to be running and reachable at the URL set in `VITE_API_URL`. By default it points to a deployed Render instance; update `.env` to point at your local backend during development.
+This frontend expects the [Drive Ease backend](https://github.com/madhanreddy466-droid/driveease-backend) to be running and reachable at the URL set in `VITE_API_URL`. By default it points to a deployed Render instance; update `.env` to point at your local backend during development.
