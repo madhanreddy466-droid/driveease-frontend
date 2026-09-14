@@ -12,7 +12,7 @@ export default function Header() {
 
   return (
     <header className="site-header">
-      <NavLink to="/" className="logo">VEL<span>O</span>CE</NavLink>
+      <NavLink to="/" className="logo">Drive<span>Ease</span></NavLink>
 
       <nav className="main-nav">
         <NavLink to="/" end className={({ isActive }) => (isActive ? 'active' : '')}>Home</NavLink>
