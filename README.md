@@ -2,7 +2,7 @@
 
 The React front-end for Drive Ease, a full-stack vehicle rental platform. Users can browse the car fleet, book a vehicle, manage their bookings, and sign in as an admin to oversee all reservations.
 
-**Backend repo:** [drive-ease-backend](https://github.com/madhanreddy466-droid/driveease-frontend)
+**Backend repo:** [drive-ease-backend](https://github.com/madhanreddy466-droid/driveease-backend)
 
 ## Features
 
@@ -37,7 +37,7 @@ src/
 
 1. Clone the repo:
    ```
-   git clone https://github.com/madhanreddy466-droid/REPLACE_WITH_FRONTEND_REPO_NAME.git
+   git clone https://github.com/madhanreddy466-droid/driveease-frontend.git
    ```
 2. Install dependencies:
    ```
